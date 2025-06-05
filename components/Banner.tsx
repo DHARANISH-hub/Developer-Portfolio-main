@@ -31,7 +31,7 @@ const Banner: React.FC<{}> = () => {
             src="/popcorn.gif"
             height={50}
             width={50}
-            alt="Ibrahim Memon"
+            alt="Ibnbgm v gj"
           />
         </div>
 
