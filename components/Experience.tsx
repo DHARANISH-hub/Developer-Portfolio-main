@@ -17,7 +17,7 @@ const Experience: React.FC<{}> = () => {
               src={"/WebHR.svg"}
               height={30}
               width={30}
-              alt={"Dhara - UX Experience"}
+              alt={"Dharanishvnd - UX Experience"}
             />
             <p className="text-gray-300 ">
               <span className="font-semibold">WebHR /</span> Software Engineer
